@@ -1,2 +1,6 @@
 Note: on MacOS we had to run 
 sudo kextunload -v -b com.apple.driver.AppleUSBFTDI
+
+
+gcc -Wall -g $(pkg-config --cflags libftdi1) stream_test.c $(pkg-config --libs libftdi1) -o stream_test
+
