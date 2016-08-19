@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.sim/sim_1/impl/func/top_tb_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
+INFO: [VRFC 10-2458] undeclared symbol CIS_MODE, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:29]
+INFO: [VRFC 10-2458] undeclared symbol CIS_CLK, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:30]
+INFO: [VRFC 10-2458] undeclared symbol CIS_SP, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:31]
+INFO: [VRFC 10-2458] undeclared symbol CIS_LED_BLUE, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:32]
+INFO: [VRFC 10-2458] undeclared symbol CIS_LED_GREEN, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:33]
+INFO: [VRFC 10-2458] undeclared symbol CIS_LED_RED, assumed default net type wire [C:/Users/sgherbst/ft232h_test_program/ft232h_test_program.srcs/sim_1/new/top_tb.v:34]
