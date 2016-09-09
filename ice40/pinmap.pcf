@@ -1,0 +1,30 @@
+# pinmap.pcf
+set_io --warn-no-port ADC_DATA[0]     B16
+set_io --warn-no-port ADC_DATA[1]     D14
+set_io --warn-no-port ADC_DATA[2]     D15
+set_io --warn-no-port ADC_DATA[3]     E14
+set_io --warn-no-port ADC_DATA[4]     C16
+set_io --warn-no-port ADC_DATA[5]     D16
+set_io --warn-no-port ADC_DATA[6]     E16
+set_io --warn-no-port ADC_DATA[7]     F16
+
+set_io --warn-no-port SCOPE_SYNC      F15
+set_io --warn-no-port ADC_CLK         G16
+
+set_io --warn-no-port USB_CLK         G15
+set_io --warn-no-port CIS_MODE        H14
+set_io --warn-no-port CIS_CLK         F14
+set_io --warn-no-port CIS_SP          J14
+set_io --warn-no-port CIS_LED_BLUE    H16
+set_io --warn-no-port CIS_LED_GREEN   J15
+set_io --warn-no-port CIS_LED_RED     G14
+set_io --warn-no-port USB_WR_L        K14
+
+set_io --warn-no-port USB_DATA[0]     K16
+set_io --warn-no-port USB_DATA[1]     L16
+set_io --warn-no-port USB_DATA[2]     M15
+set_io --warn-no-port USB_DATA[3]     P15
+set_io --warn-no-port USB_DATA[4]     K15
+set_io --warn-no-port USB_DATA[5]     M16
+set_io --warn-no-port USB_DATA[6]     N16
+set_io --warn-no-port USB_DATA[7]     P16
